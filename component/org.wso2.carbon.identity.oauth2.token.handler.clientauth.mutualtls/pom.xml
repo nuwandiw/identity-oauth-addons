@@ -26,7 +26,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls</artifactId>
     <packaging>bundle</packaging>
-    <name>Mutual TLS client authenticator</name>
+    <name>Mutual TLS with Id and Secret authenticator</name>
     <url>http://wso2.org</url>
 
     <dependencies>
